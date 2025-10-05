@@ -25,12 +25,12 @@ A simple web application to book and manage medical service requests. It include
 ### 1. Clone the repositories
 ```bash
 # Clone backend
-git clone <your-backend-repo-url>
+git clone https://github.com/Kartikmanth19/Medical-App.git
 cd backend
 npm install
 
 # Clone frontend
-git clone <your-frontend-repo-url>
+git clone https://github.com/Kartikmanth19/Medical-App.git
 cd frontend
 npm install
 
@@ -56,3 +56,4 @@ Add role-based dashboards with analytics for admins.
 Add notifications/email confirmations for requests.
 Improve UI/UX with a modern component library.
 Add mobile support using React Native + Expo.
+
